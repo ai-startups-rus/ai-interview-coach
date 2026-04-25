@@ -8,7 +8,7 @@ Want to experience how it works?
 👉 Get instant feedback on your answers  
 👉 See your weak points before a real interview  
 
-🔗 **Live Demo:** https://your-demo-link.vercel.app  
+🔗 **Live Demo:** https://ai-interview-coach.vercel.app  
 
 ---
 
